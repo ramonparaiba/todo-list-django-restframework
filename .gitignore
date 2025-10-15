@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+.Python
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django
+*.log
+*.pot
+*.mo
+db.sqlite3
+media/
+static_collected/ # If using collectstatic
+local_settings.py # Or any file containing local/sensitive settings
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Operating System
+.Trash-*
+._*
+
+# Django REST Framework specific
+# If you have specific generated files or temporary data related to DRF,
+# you would add them here. For example, if you have a custom logging setup
+# that generates specific log files, or if you're using a tool that creates
+# temporary files during API testing.
