@@ -1,2 +1,4 @@
-# todo-list-django-restframework
-Implementacao de uma API para fins de estudo
+# TO DO LIST com Django Rest Framework
+###Implementacao de uma API para fins de estudo
+
+#### ----- Estamos em fase de implantação -------
